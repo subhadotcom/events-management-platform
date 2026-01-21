@@ -484,10 +484,6 @@ For issues or questions:
 3. Check logs in development
 4. Verify environment variables
 
-## 📄 License
-
-MIT License - Feel free to use this project for learning and commercial purposes.
-
 ---
 
 **Built with ❤️ using Django REST Framework**
